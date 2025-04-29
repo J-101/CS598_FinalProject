@@ -14,6 +14,6 @@ TPC-LoS-prediction/<br>
 │   │   ├── diagnoses_icd.csv.gz<br>
 
 The other components of the code in this folder are from the paper's GitHub repository:<br>
-\url{https://github.com/EmmaRocheteau/TPC-LoS-prediction}<br>
+https://github.com/EmmaRocheteau/TPC-LoS-prediction<br>
 
 To run tpc_los_model.ipynb, upload it to Google Colab along with the TPC-LoS-prediction folder (this might take a while). Then update the data path in the first code cell to match the location where TPC-LoS-prediction is mounted in your Google Drive. Recall that both of these codes don't provide results that correlate to the papers, but they follw the same idea.
